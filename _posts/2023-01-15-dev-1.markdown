@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "[TPS Multiplayer] 角色移動 & 動畫同步"
+date:   2023-01-15 16:33:32 +0800
+categories: jekyll update
+---
+預計後續測試持槍Inverse Kinematic.
+
+<iframe width="720" height="480" src="http://www.youtube.com/embed/DLnBu9ECluk" frameborder="0" allowfullscreen></iframe>
