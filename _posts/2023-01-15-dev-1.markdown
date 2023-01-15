@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 預計後續測試持槍Inverse Kinematic.
 
-<iframe width="720" height="480" src="http://www.youtube.com/embed/DLnBu9ECluk" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/DLnBu9ECluk" frameborder="0" allowfullscreen></iframe>
