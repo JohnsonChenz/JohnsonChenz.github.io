@@ -13,7 +13,7 @@ https://johnsonchenz.github.io/
 4. 尚未實現Media(音/視訊)相關功能
 
 ## 2023/02/07 更新角色IK，初版武器系統
-[角色IK & 初版武器系統](https://johnsonchenz.github.io/jekyll/update/2023/02/07/dev-1.html)
+[角色IK & 初版武器系統](https://johnsonchenz.github.io/jekyll/update/2023/02/06/dev-1.html)
 
 ## 2023/01/15 更新
 [角色移動 & 動畫同步](https://johnsonchenz.github.io/jekyll/update/2023/01/15/dev-1.html)
