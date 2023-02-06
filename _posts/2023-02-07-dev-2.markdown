@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "[TPS Multiplayer] IK & 武器系統原型"
+date:   2023-02-07 12:00:00 +0800
+categories: jekyll update
+---
+本次展示角色IK同步及初版武器系統
+
+武器提供主/副武作切換，目前有M4步槍跟Glock可使用，後續再擴充更多武器，發射的子彈類型也預計要支援榴彈 or 火焰發射。
+
+現在驗證了武器子彈發射/碰撞 + 開火間隔 + 散射，接下來將繼續實作像是子彈裝填，後座力等設定。
+
+呈現方面也有許多東西要優化，像是IK跟動畫之間的過渡，及不同的武器應該要有不同的瞄準姿勢等，之後再慢慢完善。
+
+小心得 : 一直覺得TPS遊戲一定要有角色收槍/背槍的動畫呈現，大學專題做單機TPS時也有成功實作過，而這次能在連線的環境下下呈現此細節，算是完成心中的一個微小目標。
+
+<iframe width="720" height="480" src="https://www.youtube.com/embed/hismFihr95c" frameborder="0" allowfullscreen></iframe>

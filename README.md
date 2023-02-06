@@ -12,7 +12,8 @@ https://johnsonchenz.github.io/
 3. GS Manager 負責管控遊戲階段 例 : Init Stage(初始) => Preload Stage(預加載) => MainMenu Stage(主頁面) => Lobby Stage(開房) => Enter Stage(進入遊戲) => InGame Stage(遊戲中) => ..... => 回到MainMenu Stage
 4. 尚未實現Media(音/視訊)相關功能
 
-## 更新角色IK，初版武器系統，優化攝影機視角 (後續更新影片)
+## 2023/02/07 更新角色IK，初版武器系統
+[角色IK & 初版武器系統](https://johnsonchenz.github.io/jekyll/update/2023/02/07/dev-2.html)
 
 ## 2023/01/15 更新
 [角色移動 & 動畫同步](https://johnsonchenz.github.io/jekyll/update/2023/01/15/dev-1.html)
