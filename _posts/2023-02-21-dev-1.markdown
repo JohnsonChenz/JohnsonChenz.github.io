@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "[TPS Multiplayer] 完善武器系統 & 相關表現面優化"
+date:   2023-02-21 00:00:00 +0800
+categories: jekyll update
+---
+本次更新重點如標題，細項如下 : 
+
+武器系統功能新增 :
+1. 準確度
+2. 後座力
+3. 子彈/備彈量 & 子彈裝填
+4. 開火特效 (特效是用第三方套件的，非本人製作)
+
+新增介面 : 
+1. 準星UI
+2. 武器資訊UI
+
+角色Animation表現優化 :
+1. 搭配Animation Curve，讓角色IK動畫過渡更自然
+2. 使用UMotion第三方套件重製並新增主槍，配槍和近戰三種持武Animation，並依據武器設定檔定義的類型播放對應Animation，不過近戰系統尚未實作，待後續擴充
+
+新增Post Processing後處理濾鏡<br/>
+
+小結 : 這次更新著重於功能完善及改善表現面，目前武器系統到此會先告一段落，後續預計再補上武器裝填動畫及各種子彈類型，都弄好就可以找模型新增新武器了。
+
+接下來更新的重點會在AI敵人，基本上會先實現 
+
+1. 尋路 
+2. 攻擊目標查找 
+3. 基本相關動畫表演 
+4. 生成/死亡等  
+
+有蠻多細節要處理的，後續再更新吧，下次見!
+
+<iframe width="720" height="480" src="https://www.youtube.com/embed/BUh9dKqf9QY" frameborder="0" allowfullscreen></iframe>
