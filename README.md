@@ -16,7 +16,7 @@ https://johnsonchenz.github.io/
 [完善武器系統 & 相關表現面優化](https://johnsonchenz.github.io/jekyll/update/2023/02/21/dev-1.html)
 
 ## 2023/02/07 更新
-[角色IK & 初版武器系統](https://johnsonchenz.github.io/jekyll/update/2023/02/06/dev-1.html)
+[角色IK & 初版武器系統](https://johnsonchenz.github.io/jekyll/update/2023/02/07/dev-1.html)
 
 ## 2023/01/15 更新
 [角色移動 & 動畫同步](https://johnsonchenz.github.io/jekyll/update/2023/01/15/dev-1.html)

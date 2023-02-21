@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[TPS Multiplayer] IK & 武器系統原型"
-date:   2023-02-07 00:00:00 +0800
+date:   2023-02-07 08:00:00 +0800
 categories: jekyll update
 ---
 本次展示角色IK同步及初版武器系統
