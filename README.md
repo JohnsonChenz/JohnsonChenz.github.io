@@ -5,7 +5,7 @@ https://johnsonchenz.github.io/
 
 * 簡單使用 [RiptideNetworking](https://github.com/RiptideNetworking/Riptide) 實現連線 (Server & Client 以明確定義 FuncID 的 RPC 進行溝通)
 
-* 使Frame Manager => 用自研框架，並統一使用Addressable實現資源加載及管理(也可改用Resources)，並實現簡易的資源計數，  
+* 使用自研框架，並統一使用Addressable實現資源加載及管理(也可改用Resources)，並實現簡易的資源計數，  
 搭配使用 [UniTask](https://github.com/Cysharp/UniTask) 取代C#原生Task來實現相關異步加載/處理
 1. Frame Manager => UI Manager 負責生成 & 管控 UI
 2. Frame Manager => SR Manager 負責生成 & 管控 Scene(場景) & Resources(物件池 or Atlas)
